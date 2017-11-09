@@ -1,0 +1,41 @@
+Function Box
+
+[tmp] / [functions] /
+_____________________
+|fooify [a] [b] |   |
+|----------------   |
+|                   |
+| [str -----|       |
+| | [a]     |       |
+| | ["foo"] |       |
+| | [b]     |       |
+| ----------]       |
+|                   |
+---------------------
+
+
+
+Object Box
+
+[contacts] /
+__________________________
+|duncan |                 |
+|--------                 |
+|                         |
+| [first-name ["Duncan"]] |
+| [last-name ["Smith"]]   |
+| [age [24]]              |
+| [children ---------|    |
+| |[[name ["Emmet"]]]|    |
+| -------------------]    |
+|                         |
+--------------------------
+
+
+Panel
+  path
+  Box
+    label
+    view
+    content-rows
+
