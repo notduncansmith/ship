@@ -22,13 +22,13 @@ A running instance of Ship is a message loop with some listeners ("processes") w
 
 The project is designed to progress in phases.
 
-Phase 1 will produce a stable reference implementation with well-designed extension mechanisms. It should be pleasant to use for small scripting tasks and reasonably efficient.
+**Phase 1** will produce a stable reference implementation with well-designed extension mechanisms. It should be pleasant to use for small scripting tasks and reasonably efficient.
 
-Phase 2 will add examples and extensions to promote interoperability and usability. In other words, connect to tools & services that people care about, make the app sleeker and more forgiving, and design good onboarding/support experiences.
+**Phase 2** will add examples and extensions to promote interoperability and usability. In other words, connect to tools & services that people care about, make the app sleeker and more forgiving, and design good onboarding/support experiences.
 
-Phase 3 will expand to other platforms with emphasis on performance and collaboration/publishing workflows. This includes developing specialized runtimes, and investing in extensions that support professional use.
+**Phase 3** will expand to other platforms with emphasis on performance and collaboration/publishing workflows. This includes developing specialized runtimes, and investing in extensions that support professional use.
 
-Today, we are in Phase 1. The codebase is unstable and the editor itself is a work in progress.
+Today, we are in Phase 1. The editor itself is a work in progress, though extension will be very straightforward.
 
 Phase 1 features remaining:
 
